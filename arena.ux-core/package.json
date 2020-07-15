@@ -1,0 +1,13 @@
+{
+  "name": "@arenaops/arena.ux-core",
+  "version": "0.0.10",
+  "peerDependencies": {
+    "@angular/common": "^8.2.0",
+    "@angular/core": "^8.2.0",
+    "@ionic/angular": "^5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ArenaOps/arena.ux-core.git"
+  }
+}
